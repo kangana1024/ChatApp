@@ -24,5 +24,5 @@ react-native run-ios
 </code>
 
 <h2>เงื่อนไขการติดตั้ง</h2>
-- ทำการเปลี่ยน <code>firebase.initializeApp(...</code> ในไฟล์ src/components/Backend.js ให้เป็น Api ของตัวเอง
+- ทำการเปลี่ยน <code>firebase.initializeApp(...</code> ในไฟล์ src/components/Backend.js ให้เป็น Api ของตัวเอง<br/>
 - ไปเปิด การ login แบบ Anonymously ใน firebase console โดยคลิกเมนู Authentication > ไปที่ tab วิธีการลงชื่อใช้งาน > จากนั้นไปเปิด ไม่ระบุตัวตน
